@@ -1,0 +1,14 @@
+
+
+
+.atta{
+    padding: 35px 0;
+    text-align: center;
+    font-family: "Raleway", sans-serif; text-transform: uppercase;
+    font-size: 15px; letter-spacing: 2px;font-weight: 500;color:#e00e0e;
+    background-color:#868686;font-size: 2rem;margin-bottom: 30px;
+}
+.cards { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+}
