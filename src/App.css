@@ -47,5 +47,6 @@ button{
   color: #868686;
   background-color: #fff;
   outline: none; border: 1px solid black;
+  cursor: pointer;
 }
 

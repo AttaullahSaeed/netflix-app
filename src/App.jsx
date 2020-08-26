@@ -3,7 +3,7 @@ import Cards from './Cards';
 import Arry from './Arry';
 
 
-const App=()=>(
+const App = () =>{
 
 <>
 <h1 className='atta'>List of top 6 my favorite Netflix series</h1>
@@ -17,4 +17,4 @@ const App=()=>(
      );
 })}
 </>
-);
+};

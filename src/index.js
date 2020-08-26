@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Cards from './Cards';
 import Arry from './Arry';
+
  
 ReactDOM.render(
      <>
@@ -12,6 +13,7 @@ ReactDOM.render(
           <Cards  sname={val.sname}
           imgsrc={val.imgsrc}
            title={val.title}
+           link={val.link}
      />
           );
      })}
